@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1056042395209",
+    "project_id": "chunges2",
+    "storage_bucket": "chunges2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056042395209:android:b8527cb1b3f4aaa9b50198",
+        "android_client_info": {
+          "package_name": "com.chunges.bayarpajakonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMV6fBXz6q0Qo99Bwt-x9WfvbTosKLf6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056042395209:android:e76b28fb23dc98eeb50198",
+        "android_client_info": {
+          "package_name": "com.chunges.cekpajakkendaraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMV6fBXz6q0Qo99Bwt-x9WfvbTosKLf6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056042395209:android:ba073e425fa73af8b50198",
+        "android_client_info": {
+          "package_name": "com.chunges.jhtketenagakerjaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMV6fBXz6q0Qo99Bwt-x9WfvbTosKLf6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056042395209:android:76b1876aa9b0d0d6b50198",
+        "android_client_info": {
+          "package_name": "com.chunges.pajaksamsatbengkulu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMV6fBXz6q0Qo99Bwt-x9WfvbTosKLf6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056042395209-7rh39hoad48eq7i66l9b43fh32lu2o8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
